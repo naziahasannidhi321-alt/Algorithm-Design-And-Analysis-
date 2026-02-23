@@ -3,7 +3,7 @@
 int main() {
     int n, key;
 
-    printf("Enter number of elements: 50");
+    printf("Enter number of elements: 10,20,30,40,50");
     scanf("%d", &n);
 
     int arr[n];
