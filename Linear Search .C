@@ -3,7 +3,7 @@
 int main() {
     int n, key, i;
 
-    printf("Enter number of elements: ");
+    printf("Enter number of elements: 5");
     scanf("%d", &n);
 
     int arr[n];   // Array declaration
@@ -15,7 +15,7 @@ int main() {
     }
 
     // Input value to search
-    printf("Enter value to search: ");
+    printf("Enter value to search:30");
     scanf("%d", &key);
 
     // Linear Search
